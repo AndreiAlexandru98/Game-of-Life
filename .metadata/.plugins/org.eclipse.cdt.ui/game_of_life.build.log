@@ -1,0 +1,14 @@
+20:55:56 **** Incremental Build of configuration Default for project game_of_life ****
+xmake all 
+Checking build modules
+Using build modules: lib_i2c(3.0.0) lib_logging(2.0.0) lib_xassert(2.0.0)
+Analyzing debug_printf.c
+C:/Users/Andy/Desktop/COMS20001/lib_logging/src/debug_printf.c:2:10: fatal error: 'debug_print.h' file not found
+#include <debug_print.h>
+         ^
+1 error generated.
+xmake[1]: *** [.build/_l_logging/src/debug_printf.c.pca.xml.decouple] Error 1
+xmake: *** [analyze] Error 2
+
+20:55:59 Build Finished (took 3s.73ms)
+
