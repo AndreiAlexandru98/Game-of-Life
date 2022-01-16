@@ -1,3 +1,3 @@
 # Game of Life
  
-This is Conway's Game of Life created in XC, to run concurrently on an XMOS board, as part of the Concurrent Computing coursework.
+Implementation of a a concurrent multi-threaded program on the xCore-200 Explorer board, which simulates the ‘Game of Life’ on an image matrix. 
